@@ -1,0 +1,13 @@
+# Steps-Arduino-and-LCD-Connection-without-Potentiometer
+I. Parts Needed:
+_Hardware: Arduino UNO, LIDAR Lite v3, jumper wires.
+_Software: Arduino IDE.
+II. LIDAR Lite Introduction:
+_LIDAR Lite is an easily useful sensor for beginners who have an interest in learning and getting used to using it.
+_It has six pins attached with wires. The red wire is always the 5v input power wire and the black is the ground.
+_The other four pins including SDA (Serial Data), SCL (Serial Clock), MODE, and PWR EN.
+III. Arduino and LIDAR connection
+_Ground wire to Ground pin on Arduino
+_5v wire to 5v pin on Arduino
+_SDA to A4/Analog 4 on Arduino
+_SCL to A5/Analog 5 on Arduino
